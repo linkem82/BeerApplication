@@ -10,7 +10,6 @@
     <servlet>
         <servlet-name>BeerServlet</servlet-name>
         <servlet-class>com.example.web.BeerSelect</servlet-class>
-        <load-on-startup>1</load-on-startup>
     </servlet>
     <servlet-mapping>
         <servlet-name>BeerServlet</servlet-name>
